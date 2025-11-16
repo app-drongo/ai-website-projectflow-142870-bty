@@ -18,7 +18,7 @@ import { useSmartNavigation } from '@/hooks/useSmartNavigation';
 
 const DEFAULT_FEATURES = {
   badge: 'Powerful Features',
-  mainTitle: 'Swap test',
+  mainTitle: 'Swap Test',
   mainTitleHighlight: 'Built for High-Performance Teams',
   mainDescription:
     'Streamline your project workflows with our comprehensive project management platform designed for modern teams and growing businesses.',
